@@ -1,2 +1,2 @@
-# Liver-Disease-ML-Classification
-Machine learning models developed in R for automatic classification of liver disease patients using biochemical data, aimed at improving early diagnosis and healthcare outcomes with a user-friendly web app.
+# Liver-Disease-ML-Algorithm-Classification
+This repository aims to identify the most effective machine learning algorithm for classifying liver disease using biochemical data. It includes the implementation and evaluation of multiple models—such as Logistic Regression, Random Forest, K-Nearest Neighbors, and others—leveraging R programming to compare their accuracy and predictive performance for early and reliable liver disease diagnosis.
